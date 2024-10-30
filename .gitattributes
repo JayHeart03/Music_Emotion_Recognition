@@ -1,0 +1,6 @@
+glove.6B.100d.txt filter=lfs diff=lfs merge=lfs -text
+GoogleNews-vectors-negative300.bin filter=lfs diff=lfs merge=lfs -text
+model/model_save/Top100prediction_model/cnn_densenet_word2vec.h5 filter=lfs diff=lfs merge=lfs -text
+model/model_save/lyrcis_only/cnn_word2vec.h5 filter=lfs diff=lfs merge=lfs -text
+model/model_save/combine/cnn_densenet_word2vec.h5 filter=lfs diff=lfs merge=lfs -text
+model/model_save/combine/stacking.joblib filter=lfs diff=lfs merge=lfs -text

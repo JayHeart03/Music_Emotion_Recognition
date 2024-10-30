@@ -1,0 +1,17 @@
+tensorflow==2.10.0
+scikit-learn
+nltk
+pandas
+numpy
+matplotlib
+seaborn
+xgboost
+gensim
+joblib
+wordcloud
+spotipy
+googlesearch-python
+bs4
+unidecode
+langdetect
+lyricsgenius
